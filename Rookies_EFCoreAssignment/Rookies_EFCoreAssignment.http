@@ -1,0 +1,6 @@
+@Rookies_EFCoreAssignment_HostAddress = http://localhost:5250
+
+GET {{Rookies_EFCoreAssignment_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
